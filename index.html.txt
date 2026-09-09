@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Efe Times</title>
+</head>
+<body>
+  <h1>Hello! Efe Times is live </h1>
+  <p>This is working now.</p>
+</body>
+</html>
